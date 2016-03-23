@@ -1,7 +1,7 @@
 # config valid only for current version of Capistrano
 lock '3.4.0'
 
-set :application, 'sropbox'
+set :application, 'sropbox_beta'
 set :repo_url, 'https://github.com/wanisz/sropbox_beta.git'
 
 # Default branch is :master
